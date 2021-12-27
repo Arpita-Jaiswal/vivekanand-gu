@@ -1,6 +1,6 @@
 -- import: fpm
 
--- fpm.package: arpita-jaiswal/vivekanand-gu
+-- fpm.package: arpita-jaiswal.github.io/vivekanand-gu
 language: gu
-translation-of: arpita-jaiswal/vivekanand
-domain: https://arpita-jaiswal.github.io/vivekanand-gu/
+zip: github.com/arpita-jaiswal/vivekanand-gu/archive/refs/heads/main.zip
+translation-of: arpita-jaiswal.github.io/vivekanand
