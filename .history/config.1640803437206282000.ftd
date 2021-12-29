@@ -1,0 +1,31 @@
+-- import: lib
+
+-- string title: ધર્મ સંસદમાં સંબોધન
+
+-- string author: સ્વામી વિવેકાનંદ
+
+-- string sidebar-title: વિષય
+
+-- string quote-text: ઊઠો, જાગો અને ધ્યેય પ્રાપ્ત ન થાય ત્યાં સુધી અટકશો નહીં
+
+-- lib.toc-item list toc:
+
+-- toc:
+$processor$: toc
+
+- index.html
+  પરિચય
+- response-to-welcome/
+  સ્વાગતનો પ્રતિભાવ
+- why-we-disagree/
+  શા માટે આપણે અસંમત છીએ
+- paper-on-hinduism/
+  હિંદુ ધર્મ પર પેપર
+- religion-not-the-crying-need-of-india/
+  ધર્મ એ ભારતની રડતી જરૂરિયાત નથી
+- buddhism-the-fulfilment-of-hinduism/
+  બૌદ્ધ ધર્મ, હિંદુ ધર્મની પરિપૂર્ણતા
+- address-at-the-final-session/
+  અંતિમ સત્રમાં સંબોધન
+
+
