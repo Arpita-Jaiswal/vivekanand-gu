@@ -1,0 +1,15 @@
+-- import: fpm
+
+-- fpm.package: arpita-jaiswal.github.io/vivekanand-gu
+language: gu
+zip: github.com/arpita-jaiswal/vivekanand-gu/archive/refs/heads/main.zip
+translation-of: arpita-jaiswal.github.io/vivekanand
+
+-- fpm.translation-status-count:
+never-marked: 4
+missing: 9
+out-dated: 0
+upto-date: 0
+last-modified-on: 2021-12-29T18:43:57.206282+00:00
+
+
